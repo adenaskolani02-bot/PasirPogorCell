@@ -1,4 +1,3 @@
-[Tempat Belanja.html](https://github.com/user-attachments/files/21812258/Tempat.Belanja.html)
 <!DOCTYPE html>
 <html lang="id">
 <head>
